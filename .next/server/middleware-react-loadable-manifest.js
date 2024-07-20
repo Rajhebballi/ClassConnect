@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\components\\\\emoji-picker.tsx -> @emoji-mart/react\":{\"id\":\"..\\\\components\\\\emoji-picker.tsx -> @emoji-mart/react\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_emoji-mart_react_dist_module_js.js\"]}}"
